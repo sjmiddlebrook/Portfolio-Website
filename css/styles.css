@@ -1,0 +1,8 @@
+/* formats for the header section with name, title, and logo */
+#header_text {
+    color: gray;
+}
+
+#name_heading {
+    text-transform: uppercase;
+}
