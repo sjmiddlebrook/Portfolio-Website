@@ -7,18 +7,17 @@
     text-transform: uppercase;
 }
 
+/* formats for breaks between sections separating content */
 .section_break {
     padding-bottom: 1.25rem;
     margin-bottom: 2rem;
     border-bottom: .25rem solid #eee;
 }
 
-.section_subheader {
+/* style for featured work section */
+.featured_work h2 {
     color: gray;
     padding-left: .5em;
-}
-
-.featured_work h2 {
     padding-bottom: 1.25rem;
 }
 
@@ -36,10 +35,13 @@
     text-align: center;
 }
 
+/* style for about me section */
 .about_row {
     display: inline-block;
 }
 
 .about_me h2 {
+    color: gray;
+    padding-left: .5em;
     padding-bottom: 1em;
 }
