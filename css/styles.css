@@ -7,13 +7,13 @@
     text-transform: uppercase;
 }
 
-.portfolio-header {
+.section_break {
     padding-bottom: 1.25rem;
     margin-bottom: 2rem;
     border-bottom: .25rem solid #eee;
 }
 
-#featured_subheader {
+.section_subheader {
     color: gray;
     padding-left: .5em;
 }
@@ -21,4 +21,8 @@
 .project_title {
     text-transform: uppercase;
     text-align: center;
+}
+
+.about_me {
+    display: inline-block;
 }
