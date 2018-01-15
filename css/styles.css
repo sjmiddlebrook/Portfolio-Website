@@ -26,3 +26,12 @@
 .about_me {
     display: inline-block;
 }
+
+.project_image {
+    display: block;
+    margin: auto;
+}
+
+.project_link {
+    text-align: center;
+}
