@@ -18,20 +18,28 @@
     padding-left: .5em;
 }
 
-.project_title {
-    text-transform: uppercase;
-    text-align: center;
+.featured_work h2 {
+    padding-bottom: 1.25rem;
 }
 
-.about_me {
-    display: inline-block;
-}
-
-.project_image {
+.featured_work img {
     display: block;
     margin: auto;
 }
 
-.project_link {
+.featured_work h3 {
+    text-transform: uppercase;
     text-align: center;
+}
+
+.featured_work p {
+    text-align: center;
+}
+
+.about_row {
+    display: inline-block;
+}
+
+.about_me h2 {
+    padding-bottom: 1em;
 }
