@@ -18,47 +18,47 @@
 }
 
 /* formats for the header section with name, title, and logo */
-.header_text {
+.header-text {
     color: gray;
 }
 
-.header_text_row {
+.header-text-row {
     padding-left: 1.25em;
     padding-right: 1.25em;
 }
 
-.header_name {
+.header-name {
     text-transform: uppercase;
 }
 
 /* formats for breaks between sections separating content */
-.section_break {
+.section-break {
     padding-bottom: 1.25em;
     margin-bottom: 2em;
     border-bottom: 0.25em solid #eee;
 }
 
 /* style for featured work section */
-.featured_work_header {
+.featured-work-header {
     color: gray;
     padding-left: 0.5em;
 }
 
-.project_title {
+.project-title {
     text-transform: uppercase;
     text-align: center;
 }
 
-.project_link {
+.project-link {
     text-align: center;
 }
 
-.image_column {
+.image-column {
     padding: 2em;
 }
 
 /* style for about me section */
-.about_me_header {
+.about-me-header {
     color: gray;
     padding-left: 0.5em;
     padding-bottom: 1em;
