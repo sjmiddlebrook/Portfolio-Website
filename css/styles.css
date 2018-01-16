@@ -33,21 +33,15 @@ header h1 {
 
 /* formats for breaks between sections separating content */
 .section_break {
-    padding-bottom: 1.25rem;
-    margin-bottom: 2rem;
-    border-bottom: .25rem solid #eee;
+    padding-bottom: 1.25em;
+    margin-bottom: 2em;
+    border-bottom: .25em solid #eee;
 }
 
 /* style for featured work section */
 .featured_work h2 {
     color: gray;
     padding-left: .5em;
-    padding-bottom: 1.25rem;
-}
-
-.featured_work img {
-    display: block;
-    margin: auto;
 }
 
 .featured_work h3 {
@@ -57,6 +51,10 @@ header h1 {
 
 .featured_work p {
     text-align: center;
+}
+
+.image_column {
+    padding: 2em;
 }
 
 /* style for about me section */
