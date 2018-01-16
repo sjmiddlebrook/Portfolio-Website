@@ -27,7 +27,7 @@
     padding-right: 1.25em;
 }
 
-header h1 {
+.header_text h1 {
     text-transform: uppercase;
 }
 
@@ -35,13 +35,13 @@ header h1 {
 .section_break {
     padding-bottom: 1.25em;
     margin-bottom: 2em;
-    border-bottom: .25em solid #eee;
+    border-bottom: 0.25em solid #eee;
 }
 
 /* style for featured work section */
 .featured_work h2 {
     color: gray;
-    padding-left: .5em;
+    padding-left: 0.5em;
 }
 
 .featured_work h3 {
@@ -64,6 +64,6 @@ header h1 {
 
 .about_me h2 {
     color: gray;
-    padding-left: .5em;
+    padding-left: 0.5em;
     padding-bottom: 1em;
 }
