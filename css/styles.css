@@ -20,9 +20,6 @@
 /* formats for the header section with name, title, and logo */
 .header-text {
     color: gray;
-}
-
-.header-text-row {
     padding-left: 1.25em;
     padding-right: 1.25em;
 }
