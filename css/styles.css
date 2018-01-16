@@ -22,12 +22,12 @@
     color: gray;
 }
 
-.header_text div {
+.header_text_row {
     padding-left: 1.25em;
     padding-right: 1.25em;
 }
 
-.header_text h1 {
+.header_name {
     text-transform: uppercase;
 }
 
@@ -39,17 +39,17 @@
 }
 
 /* style for featured work section */
-.featured_work h2 {
+.featured_work_header {
     color: gray;
     padding-left: 0.5em;
 }
 
-.featured_work h3 {
+.project_title {
     text-transform: uppercase;
     text-align: center;
 }
 
-.featured_work p {
+.project_link {
     text-align: center;
 }
 
@@ -58,11 +58,7 @@
 }
 
 /* style for about me section */
-.about_row {
-    display: inline-block;
-}
-
-.about_me h2 {
+.about_me_header {
     color: gray;
     padding-left: 0.5em;
     padding-bottom: 1em;
