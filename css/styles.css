@@ -1,33 +1,33 @@
 /* make responsive adjustments for different screen sizes */
-
 @media screen and (max-width: 768px) {
-    body {
+    html {
         font-size: 75%;
     }
 }
 
-
 @media screen and (min-width: 769px) {
-    body {
+    html {
         font-size: 100%;
     }
 }
 
 @media screen and (min-width: 960px) {
-    body {
+    html {
         font-size: 125%;
     }
 }
 
-
-
 /* formats for the header section with name, title, and logo */
 .header_text {
     color: gray;
-    padding: 1.25em;
 }
 
-#name_heading {
+.header_text div {
+    padding-left: 1.25em;
+    padding-right: 1.25em;
+}
+
+header h1 {
     text-transform: uppercase;
 }
 
