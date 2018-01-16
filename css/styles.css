@@ -24,6 +24,7 @@
 /* formats for the header section with name, title, and logo */
 .header_text {
     color: gray;
+    padding: 1.25em;
 }
 
 #name_heading {
